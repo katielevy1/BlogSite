@@ -10,6 +10,6 @@ Prerequisites:
 - Yarn
 - Rails
 
-Clone repo and run `rails server`. Navigate to (localhost:3000)[http://localhost:3000/]
+Clone repo and run `rails server`. Navigate to [localhost:3000](http://localhost:3000/)
 
 
